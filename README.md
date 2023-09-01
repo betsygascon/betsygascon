@@ -1,7 +1,6 @@
-### Hi there 👋
 
-Hi, I'm Betsy Gascon
-I'm a Frontend Web Developer primarily focusing on React/Redux projects, and ADA/WCAG website accessibility.
+# Hi, I'm Betsy Gascon 👋
+### I'm a Frontend Web Developer primarily focusing on React/Redux projects, and ADA/WCAG website accessibility.
 
 <!--
 **betsygascon/betsygascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
