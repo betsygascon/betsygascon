@@ -2,6 +2,16 @@
 # Hi! I'm Betsy Gascon 👋
 ### A Frontend Web Developer primarily focusing on React/Redux projects, and web accessibility.
 
+I have strong knowledge and understanding of HTML, CSS and Javscript (ES6), in addition to the following concepts, frameworks, and libraries:
+```
+- SASS / Less
+- Object Oriented Programing, Regex
+- React, Redux
+- jQuery
+- CMS: WordPress
+```
+
+
 <!--
 **betsygascon/betsygascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
