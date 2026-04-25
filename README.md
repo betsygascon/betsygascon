@@ -7,8 +7,8 @@
 - JS, AJAX / JSON, Typescript
 - React, Angular, Next.js
 - NPM, Webpack, Vite, Yarn
-- REST API
-- CI/CD
+- REST APIs
+- CI/CD, AWS, Vercel
 - Database mangement, SQL
 - SaaS integration
 - Git, SVN
