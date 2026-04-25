@@ -1,11 +1,13 @@
 
 # Hi! I'm Bets 👋
-### A Frontend Web Developer primarily focusing on React/Redux projects, and web accessibility.
+### A Frontend Web Developer with a focus on web accessibility
 
 ```
-- SASS / Less
-- Object Oriented Programing, Regex
-- React, Redux
-- jQuery
-- CMS: WordPress
+- HTML, CSS + SASS / LESS
+- JS, jQuery, Typescript
+- React, Angular, Next.js
+- NPM, Webpack, Vite
+- CI/CD
+- Git, SVN
+- Headless CMS: Payload, Ghost, Sanity
 ```
